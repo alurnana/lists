@@ -22,6 +22,10 @@ li {
     width: 1200px;
 }
 
+.hide {
+    display: none !important;
+}
+
 /*--------------------------------HEADER------------------------------------*/
 .header {
     border-bottom: 0.3px solid rgba(70, 163, 88, 0.5) ;
@@ -564,4 +568,17 @@ li {
 
 .blog-card-button:hover {
     color: rgba(70, 163, 88, 1);
+}
+
+/* -------------------------------- NEWSLETTERS ------------------------------------ */
+.pros {
+    margin-top: 90px;
+    padding: 25px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(251, 251, 251, 1);
+}
+
+.pros-card {
+
 }
