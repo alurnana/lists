@@ -571,14 +571,3 @@ li {
 }
 
 /* -------------------------------- NEWSLETTERS ------------------------------------ */
-.pros {
-    margin-top: 90px;
-    padding: 25px;
-    display: flex;
-    justify-content: space-between;
-    background-color: rgba(251, 251, 251, 1);
-}
-
-.pros-card {
-
-}
